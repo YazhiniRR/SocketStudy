@@ -55,8 +55,6 @@ Socket programming finds applications in various domains, including web developm
 ## PROGRAM:
 ~~~
 client
-Developed by:RAKSHITHA K
-Register number:212223110039
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
